@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Olena-Shpakovska
-- 🌱 I’m currently learning quality control in SoftServe IT Academy
+
 
 <!---
 Olena-Shpakovska/Olena-Shpakovska is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
